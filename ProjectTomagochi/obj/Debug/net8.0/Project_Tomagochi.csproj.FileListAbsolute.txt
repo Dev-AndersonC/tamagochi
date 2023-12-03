@@ -1,0 +1,14 @@
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/bin/Debug/net8.0/Project_Tomagochi
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/bin/Debug/net8.0/Project_Tomagochi.deps.json
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/bin/Debug/net8.0/Project_Tomagochi.runtimeconfig.json
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/bin/Debug/net8.0/Project_Tomagochi.dll
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/bin/Debug/net8.0/Project_Tomagochi.pdb
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/Project_Tomagochi.GeneratedMSBuildEditorConfig.editorconfig
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/Project_Tomagochi.AssemblyInfoInputs.cache
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/Project_Tomagochi.AssemblyInfo.cs
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/Project_Tomagochi.csproj.CoreCompileInputs.cache
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/Project_Tomagochi.dll
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/refint/Project_Tomagochi.dll
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/Project_Tomagochi.pdb
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/Project_Tomagochi.genruntimeconfig.cache
+/home/andersonc/Documentos/tamagochi/Project_Tomagochi/obj/Debug/net8.0/ref/Project_Tomagochi.dll
